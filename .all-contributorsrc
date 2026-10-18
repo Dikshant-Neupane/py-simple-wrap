@@ -1,6 +1,6 @@
 {
   "files": [
-  "CONTRIBUTORS.md"
+    "CONTRIBUTORS.md"
   ],
   "imageSize": 80,
   "projectName": "py_simple",
@@ -847,6 +847,17 @@
       "profile": "https://github.com/AugustoDaimon",
       "contributions": [
         "test"
+      ]
+    },
+    {
+      "login": "rajshadow",
+      "name": "Rajeev Atmakuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7029421?v=4",
+      "profile": "https://github.com/rajshadow",
+      "contributions": [
+        "code",
+        "test",
+        "documentation"
       ]
     }
   ]
