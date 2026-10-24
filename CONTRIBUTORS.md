@@ -495,6 +495,14 @@ Every tile below is a real person who showed up for this project. 💛
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="16.6%">
+      <a href="https://github.com/supergioo0">
+        <img src="https://github.com/supergioo0.png" width="100px;" alt="Giorgio Ciafardoni"/><br />
+        <sub><b>Giorgio Ciafardoni</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -941,6 +949,14 @@ Every tile below is a real person who showed up for this project. 💛
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="16.6%">
+      <a href="https://github.com/supergioo0">
+        <img src="https://github.com/supergioo0.png" width="100px;" alt="Giorgio Ciafardoni"/><br />
+        <sub><b>Giorgio Ciafardoni</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1124,6 +1140,14 @@ Every tile below is a real person who showed up for this project. 💛
       <a href="https://github.com/rajshadow">
         <img src="https://github.com/rajshadow.png" width="100px;" alt="Rajeev Atmakuri"/><br />
         <sub><b>Rajeev Atmakuri</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="16.6%">
+      <a href="https://github.com/supergioo0">
+        <img src="https://github.com/supergioo0.png" width="100px;" alt="Giorgio Ciafardoni"/><br />
+        <sub><b>Giorgio Ciafardoni</b></sub>
       </a>
     </td>
   </tr>
@@ -1387,6 +1411,7 @@ The Module Magicians. The Code Conjurers. The Test Sentinels. The Lore Keepers. 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/javascp"><img src="https://github.com/javascp.png?s=80" width="80px;" alt="JavaSCP"/><br /><sub><b>JavaSCP</b></sub></a><br /><a href="https://github.com/sara-czasak/py_simple/commits?author=javascp" title="Tests">🧪</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mr-Neutr0n"><img src="https://github.com/Mr-Neutr0n.png?s=80" width="80px;" alt="hari"/><br /><sub><b>hari</b></sub></a><br /><a href="https://github.com/sara-czasak/py_simple/commits?author=Mr-Neutr0n" title="Tests">🧪</a> <a href="https://github.com/sara-czasak/py_simple/commits?author=Mr-Neutr0n" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nawaaaaaAaar"><img src="https://github.com/nawaaaaaAaar.png?s=80" width="80px;" alt="nawaaaar"/><br /><sub><b>nawaaaar</b></sub></a><br /><a href="https://github.com/sara-czasak/py_simple/commits?author=nawaaaaaAaar" title="Tests">🧪</a> <a href="https://github.com/sara-czasak/py_simple/commits?author=nawaaaaaAaar" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/supergioo0"><img src="https://avatars.githubusercontent.com/u/158353879?v=4?s=80" width="80px;" alt="Giorgio Ciafardoni"/><br /><sub><b>Giorgio Ciafardoni</b></sub></a><br /><a href="https://github.com/sara-czasak/py_simple/commits?author=supergioo0" title="Code">💻</a> <a href="https://github.com/sara-czasak/py_simple/commits?author=supergioo0" title="Tests">🧪</a> <a href="https://github.com/sara-czasak/py_simple/commits?author=supergioo0" title="Docs">📖</a></td>
     </tr>
   </tbody>
 </table>
